@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/CLionProjects/TareaCorta /Hearder File/ManegerFile.h
+iostream
+-
+string
+-
+fstream
+-
+stdlib.h
+-
+sstream
+-
+stdio.h
+-
+fstream
+-
+stack
+-
+cstdlib
+-
+
+/home/christian/CLionProjects/TareaCorta /Hearder File/QuickSort.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+
+/home/christian/CLionProjects/TareaCorta /main.cpp
+iostream
+-
+stdlib.h
+-
+string
+-
+Hearder File/ManegerFile.h
+/home/christian/CLionProjects/TareaCorta /Hearder File/ManegerFile.h
+Hearder File/QuickSort.h
+/home/christian/CLionProjects/TareaCorta /Hearder File/QuickSort.h
+
