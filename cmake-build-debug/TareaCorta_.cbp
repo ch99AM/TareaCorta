@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/christian/CLionProjects/TareaCorta /Hearder File"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -67,6 +68,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/christian/CLionProjects/TareaCorta /Hearder File"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -87,31 +89,31 @@
 		<Unit filename="/home/christian/CLionProjects/TareaCorta /Hearder File/ManegerFile.h">
 			<Option target="TareaCorta_"/>
 		</Unit>
+		<Unit filename="/home/christian/CLionProjects/TareaCorta /Hearder File/Ordenamiento.h">
+			<Option target="TareaCorta_"/>
+		</Unit>
 		<Unit filename="/home/christian/CLionProjects/TareaCorta /Hearder File/PagedArray.h">
 			<Option target="TareaCorta_"/>
 		</Unit>
-		<Unit filename="/home/christian/CLionProjects/TareaCorta /Hearder File/QuickSort.h">
+		<Unit filename="/home/christian/CLionProjects/TareaCorta /cmake-build-debug/12kB.txt">
 			<Option target="TareaCorta_"/>
 		</Unit>
-		<Unit filename="/home/christian/CLionProjects/TareaCorta /Hearder File/insertionsort.h">
+		<Unit filename="/home/christian/CLionProjects/TareaCorta /cmake-build-debug/1kB.txt">
 			<Option target="TareaCorta_"/>
 		</Unit>
-		<Unit filename="/home/christian/CLionProjects/TareaCorta /Hearder File/quicksort.h">
+		<Unit filename="/home/christian/CLionProjects/TareaCorta /cmake-build-debug/24kB.txt">
 			<Option target="TareaCorta_"/>
 		</Unit>
-		<Unit filename="/home/christian/CLionProjects/TareaCorta /Hearder File/selectionsort.h">
+		<Unit filename="/home/christian/CLionProjects/TareaCorta /cmake-build-debug/36kB.txt">
 			<Option target="TareaCorta_"/>
 		</Unit>
-		<Unit filename="/home/christian/CLionProjects/TareaCorta /MemoryManeger/GestorLRU.cpp">
+		<Unit filename="/home/christian/CLionProjects/TareaCorta /cmake-build-debug/4kB.txt">
 			<Option target="TareaCorta_"/>
 		</Unit>
-		<Unit filename="/home/christian/CLionProjects/TareaCorta /MemoryManeger/GestorLRU.h">
+		<Unit filename="/home/christian/CLionProjects/TareaCorta /cmake-build-debug/8kB.txt">
 			<Option target="TareaCorta_"/>
 		</Unit>
-		<Unit filename="/home/christian/CLionProjects/TareaCorta /MemoryManeger/GestorMemoria.h">
-			<Option target="TareaCorta_"/>
-		</Unit>
-		<Unit filename="/home/christian/CLionProjects/TareaCorta /MemoryManeger/Nodo.h">
+		<Unit filename="/home/christian/CLionProjects/TareaCorta /cmake-build-debug/Doc.bin">
 			<Option target="TareaCorta_"/>
 		</Unit>
 		<Unit filename="/home/christian/CLionProjects/TareaCorta /main.cpp">

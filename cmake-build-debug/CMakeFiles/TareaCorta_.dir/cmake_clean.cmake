@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TareaCorta_.dir/main.cpp.o"
-  "CMakeFiles/TareaCorta_.dir/MemoryManeger/GestorLRU.cpp.o"
   "TareaCorta_.pdb"
   "TareaCorta_"
 )
