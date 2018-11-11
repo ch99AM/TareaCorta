@@ -167,7 +167,7 @@ private:
         if(!fentrada){
             cout << "Error al abrir el archivo en pos_max";
             exit(1); }
-        fentrada.seekg(0, ios::end);maxPag= 36;pos_max = fentrada.tellg()/4;
+        fentrada.seekg(0, ios::end);pos_max = fentrada.tellg()/4;
         fentrada.close();
         return pos_max;
     }
